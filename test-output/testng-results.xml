@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1188" started-at="2018-01-13T03:30:39Z" finished-at="2018-01-13T03:30:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1188" started-at="2018-01-13T03:30:39Z" finished-at="2018-01-13T03:30:40Z">
+      <class name="com.example.FormTest">
+        <test-method status="PASS" signature="doGet(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.example.FormTest@721bdf30]" name="doGet" duration-ms="728" started-at="2018-01-13T11:30:40Z" data-provider="feeder" finished-at="2018-01-13T11:30:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doGet -->
+        <test-method status="PASS" signature="doGet(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.example.FormTest@721bdf30]" name="doGet" duration-ms="18" started-at="2018-01-13T11:30:40Z" data-provider="feeder" finished-at="2018-01-13T11:30:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doGet -->
+        <test-method status="PASS" signature="doGet(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.example.FormTest@721bdf30]" name="doGet" duration-ms="18" started-at="2018-01-13T11:30:40Z" data-provider="feeder" finished-at="2018-01-13T11:30:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doGet -->
+        <test-method status="PASS" signature="doGet(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.example.FormTest@721bdf30]" name="doGet" duration-ms="21" started-at="2018-01-13T11:30:40Z" data-provider="feeder" finished-at="2018-01-13T11:30:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doGet -->
+      </class> <!-- com.example.FormTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
